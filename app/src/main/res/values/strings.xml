@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="appwidget_text">Lock Screen</string>
+    <string name="add_widget">Add widget</string>
+</resources>
